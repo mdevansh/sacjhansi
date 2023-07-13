@@ -9,11 +9,11 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload. Lolz!!.
           <br></br>
-          Used Github workflows for this :) . YAyyyy!YY!!
+          Used Github workflows for this . YAyyyy!YY!!
           <br></br>
           <br></br>
         </p>
-        <img SRC="https://media4.giphy.com/media/4DUjG2ei31nA2evo5g/200w.gif?cid=790b7611hq60sh2uu6n5hrt22c47uge4rw7n1b5ym4exe2cf&ep=v1_gifs_search&rid=200w.gif&ct=g"></img>
+        <img src="https://media4.giphy.com/media/4DUjG2ei31nA2evo5g/200w.gif?cid=790b7611hq60sh2uu6n5hrt22c47uge4rw7n1b5ym4exe2cf&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="Lets Danceece !!">
         <br></br>
         <br></br>
         <a
