@@ -28,7 +28,7 @@ jobs:
 
       - name: Deploy with GH pages
         run: |
-          git remote set-url origin https://github.com/mdevansh/sacjhansi.git
+          git remote set-url origin https://git:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
           npm run deploy
         env:
           GITHUB_TOKEN: ${{ secrets.PAT_GITHUB_TOKEN  }}
