@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sacjhansi/static/css/main.073c9b0a.css",
+    "main.js": "/sacjhansi/static/js/main.5112a274.js",
+    "static/js/787.a342eec1.chunk.js": "/sacjhansi/static/js/787.a342eec1.chunk.js",
+    "static/media/logo.svg": "/sacjhansi/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/sacjhansi/index.html",
+    "main.073c9b0a.css.map": "/sacjhansi/static/css/main.073c9b0a.css.map",
+    "main.5112a274.js.map": "/sacjhansi/static/js/main.5112a274.js.map",
+    "787.a342eec1.chunk.js.map": "/sacjhansi/static/js/787.a342eec1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.5112a274.js"
+  ]
+}
