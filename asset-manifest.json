@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/sacjhansi/static/css/main.073c9b0a.css",
-    "main.js": "/sacjhansi/static/js/main.eed734f0.js",
+    "main.css": "/sacjhansi/static/css/main.5631d07c.css",
+    "main.js": "/sacjhansi/static/js/main.9ef3089d.js",
     "static/js/787.a342eec1.chunk.js": "/sacjhansi/static/js/787.a342eec1.chunk.js",
+    "static/media/UPGovtLogo.png": "/sacjhansi/static/media/UPGovtLogo.cc5321c7e1051393e673.png",
     "index.html": "/sacjhansi/index.html",
-    "main.073c9b0a.css.map": "/sacjhansi/static/css/main.073c9b0a.css.map",
-    "main.eed734f0.js.map": "/sacjhansi/static/js/main.eed734f0.js.map",
+    "main.5631d07c.css.map": "/sacjhansi/static/css/main.5631d07c.css.map",
+    "main.9ef3089d.js.map": "/sacjhansi/static/js/main.9ef3089d.js.map",
     "787.a342eec1.chunk.js.map": "/sacjhansi/static/js/787.a342eec1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.eed734f0.js"
+    "static/css/main.5631d07c.css",
+    "static/js/main.9ef3089d.js"
   ]
 }
